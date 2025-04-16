@@ -2,10 +2,10 @@
 
 ## 구성
 
-- Vite
-- React v19
-- TailwindCSS
-- Tailwind-Merge
+- Vite 6.2.0
+- React 19.0.0
+- TailwindCSS 4.1.4
+- Tailwind-Merge 3.2.0
 
 ## 실행 방법
 
@@ -14,5 +14,5 @@ git clone
 
 npm install
 
-npm run serve
+npm run dev
 ```
